@@ -1,0 +1,19 @@
+{
+  "name": "invoice-backend",
+  "version": "1.0.0",
+  "description": "Backend for Invoice Software backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajniyogi/invoice-backend.git"
+  },
+  "author": "Suraj Niyogi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajniyogi/invoice-backend/issues"
+  },
+  "homepage": "https://github.com/surajniyogi/invoice-backend#readme"
+}
